@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maurodap
+- 👋 Hi, I’m @Mauro
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner projects.
